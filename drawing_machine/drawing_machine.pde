@@ -2,7 +2,7 @@
 //ethtereal aesthetic
 //delicate lines (thickness varies)
 //random paint drops(size, color and locations)
-//play with color opacity 
+//play with color opacity, randomized and automated
 
 
 
