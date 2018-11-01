@@ -1,4 +1,4 @@
-// clears the screen
+// clear canvas when delete or backspace is pressed
 
 void keyPressed() {
   switch(key){
